@@ -1,3 +1,9 @@
+**Live dashboard: <https://serahmwikalindunda.github.io/CIPI-Dashboard/>**
+
+Rebuilt by running the notebook in this repository against the source publication. Last published 2026-10-01.
+
+---
+
 # Statistics dashboard
 
 Bilingual (EN/FR) dashboard built from **Bulletin statistique trimestriel**, pages 1, 2.
